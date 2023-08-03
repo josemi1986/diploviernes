@@ -1,5 +1,19 @@
-h1{color: blue;text-align: center;}
-h2{color: crimson;}
-h4{text-align: center;color: gray;}
+h1{color: blue; text-align: center;}
+.caja{background-color: rgb(58, 58, 187);
+width: 300px;
+height: 150px;
+box-shadow: -54px 40px 14px 8px rgba(0,0,0,0.75);
+-webkit-box-shadow: -54px 40px 14px 8px rgba(0,0,0,0.75);
+border-radius: 0px 39px 39px 39px;
+-webkit-border-radius: 0px 39px 39px 39px;
+-moz-border-radius: 0px 39px 39px 39px;}
+img{border-radius: 50px;}
+h2{color: rgb(134, 11, 36);}
+h4{color: black;}
 p{font-style: italic;}
+P{color: rgb(0, 0, 0);}
 li{font-style: italic;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.caja2{background-color: rgb(184, 45, 45);
+width: 300px;
+height: 100px;
+box-shadow: 10px 10px 5px ;}
