@@ -39,3 +39,17 @@
     margin: 10px;
     font-size: 30px;
 }
+.contenedor2{
+    background-color:white ;
+    border: 1px solid ;
+    display: flex ;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+.contenedor3{
+    background-color:white ;
+    border: 1px solid ;
+    display: flex ;
+    flex-direction: space-evenly;
+    justify-content: space-evenly;
+}
